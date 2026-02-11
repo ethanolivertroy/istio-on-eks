@@ -9,7 +9,7 @@
   "author": "Praseeda Sathaye",
   "license": "MIT-0",
   "dependencies": {
-    "aws-sdk": "^2.657.0",
+    "aws-sdk": "^2.1693.0",
     "aws-xray-sdk": "^3.5.1",
     "express": "^4.22.0"
   }
